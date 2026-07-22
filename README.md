@@ -1,2 +1,4 @@
 # Contract-Multi-Agent-LangGraph-GigaChat
-Prototype of Contract Multi-Agent with LangGraph + GigaChat. 
+Прототип Contract Multi-Agent. Используем LangGraph + GigaChat.
+
+Эта версия написана Alice AI.
